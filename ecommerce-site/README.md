@@ -1,3 +1,43 @@
+# ShopEasy 🛒
+
+A full-featured e-commerce web application built with React.
+
+## Features
+- Browse products by category
+- Product detail pages
+- Add to cart, update quantity, remove items
+- Toast notifications on cart actions
+- Checkout flow
+- Responsive design
+
+## Tech Stack
+- React 19
+- React Router
+- Context API (state management)
+- Vite
+- CSS
+
+## Getting Started
+
+\`\`\`bash
+# Clone the repo
+git clone https://github.com/Santhanamari-Vennila/ShopEasy.git
+
+# Install dependencies
+cd ShopEasy
+npm install
+
+# Run the dev server
+npm run dev
+\`\`\`
+
+## Screenshots
+(Add a few screenshots here once deployed)
+
+## Author
+Santhanamari Vennila
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
